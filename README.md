@@ -12,3 +12,6 @@ A few sample images from each class of the train and test set is available at th
 
 ## Results:
 
+![result](result.PNG)
+
+#### Confusion matrix on the 300 test images for the open-source architectures a: VGG19 [14], b: Resnet50 V2 [15], c: Densenet121 [16], d: Inception V3 [33]. Inception V3 has the best results, with the least number of false predictions. ResNet50 V2 has the next best result, followed by DenseNet121 and VGG19, respectively.
