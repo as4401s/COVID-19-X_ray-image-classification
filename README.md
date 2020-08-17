@@ -6,7 +6,9 @@ Generating the dataset - https://github.com/lindawangg/COVID-Net/blob/master/doc
 
 Please use the text files available in https://github.com/as4401s/COVID-19-X_ray-image-classification/tree/master/Creating_the_dataset
 
-The text file can be converted to csv using - https://github.com/as4401s/COVID-19-X_ray-image-classification/blob/master/Creating_the_dataset/Covert_text_to_csv%20.ipynb
+The text file was then converted to csv and renamed according to the class names.
 
-The files can be renamed using- https://github.com/as4401s/COVID-19-X_ray-image-classification/blob/master/Creating_the_dataset/Rename_Files.ipynb
+A few sample images from each class of the train and test set is available at the following link - https://github.com/as4401s/COVID-19-X_ray-image-classification/tree/master/Dataset
+
+## Results:
 
