@@ -10,6 +10,14 @@ The text file was then converted to csv and renamed according to the class names
 
 A few sample images from each class of the train and test set is available at the following link - https://github.com/as4401s/COVID-19-X_ray-image-classification/tree/master/Dataset
 
+## Images:
+
+1- Non-infected Normal Images,
+2 - Pneumonia Images ( Non- COVID-19),
+3 - COVID-19 
+
+![image](x_rays.jpg)
+
 ## Results:
 
 ![result](result.PNG)
